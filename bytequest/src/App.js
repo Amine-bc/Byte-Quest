@@ -8,7 +8,7 @@ function App() {
    <BlackButton />
    <footer className='footer'>
       <p>© 2023 Byte Quest ELFARI9</p>
-    </footer>
+   </footer>
      </>
   );
 }
