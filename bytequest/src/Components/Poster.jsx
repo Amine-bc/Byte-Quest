@@ -1,6 +1,6 @@
 import React from 'react';
 import '../index.css'; // Import your CSS file if defined externally
-import imagePoster from "../../public/Poster.png";
+import imagePoster from "../Images/Poster.png";
 
 const Poster = () => {
   return (
