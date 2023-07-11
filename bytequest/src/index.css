@@ -35,14 +35,14 @@ code {
 
 
 .footer {
-  position: fixed;
-  bottom: 0;
+  /* position: fixed;
+  bottom: 0; */
   width: 100%;
   background-color: black;
   color: white;
   font-size: 12px;
   text-align: center;
-  margin-top: 0rem;
+  margin-top: 5%;
   padding: 0rem;
 }
 
@@ -56,14 +56,13 @@ code {
 }
 .container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: calc(100vh - 50px); /* Adjust the desired space from the top */
-  font-family: "Clear Sans", Arial, sans-serif;
-  padding: 0 px; /* Adjust the desired padding */
-  margin-bottom: 0px;
-}
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: calc(100vh - 50px); */
+    font-family: "Clear Sans", Arial, sans-serif;
+    padding: 0 px;
+    margin-bottom: 0px;}
 
 .description {
   margin-top: 3rem; /* Adjust the desired space between container and button */
@@ -83,9 +82,16 @@ code {
   cursor: pointer;
   font-family: 'Montserrat', sans-serif;
   padding: 1rem;
-  width: 15rem;
-  margin-top: 0px; /* Adjust the desired space between container and button */
-  margin-left: 52rem;
-  margin-right: 50rem;
-  margin-bottom: 5rem;
+  
+}
+.footerP{
+  padding: 1rem;
+  margin: 0;
+}
+.GameDiv{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 5%;
 }
