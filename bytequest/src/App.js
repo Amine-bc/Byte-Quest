@@ -2,7 +2,7 @@ import Poster from './Components/Poster.jsx';
 import BlackButton from './Components/Button.jsx';
 import './index.css';
 
-
+function App() {
   return (
     <>
     <Poster />
