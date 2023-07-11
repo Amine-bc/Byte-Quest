@@ -13,7 +13,7 @@ const Poster = () => {
       Discovering the story of behind the invention is a shared pleasure between all engineering student, and computer science history hides many of these tales, in Byte Quest you will be exploring them !
       </p> 
       <BlackButton url="https://github.com/ibrahim-aboud/GDG-Game-Jam-ELFARI9" text="Check The Repo"/>
-      <BlackButton url="https://ilyes-ar.itch.io/byte-quest" text="play"/>
+      <BlackButton url="https://ilyes-ar.itch.io/byte-quest" text="play right now !"/>
     </div>
   );
 };
