@@ -1,9 +1,9 @@
 import React from 'react';
 
-function BlackButton() {
+function BlackButton(props) {
   return (
-<button className="black-button" onClick={() => window.location.href = 'https://github.com/ibrahim-aboud/GDG-Game-Jam-ELFARI9.git'}>
-  Check Repository
+<button className="black-button" onClick={() => window.location.href = {props.url}>
+  {props.text}
 </button>
   
   );
