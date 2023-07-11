@@ -5,7 +5,7 @@ function App() {
   return (
    <>
    <Poster />
-   <BlackButton />
+   <BlackButton/>
    <footer className='footer'>
       <p>© 2023 Byte Quest ELFARI9</p>
    </footer>
