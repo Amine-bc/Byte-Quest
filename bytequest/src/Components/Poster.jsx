@@ -14,7 +14,7 @@ const Poster = () => {
       </p> 
       <BlackButton url="https://www.youtube.com/watch?v=0yN99XffJ0Y" text="Watch the teaser"/>
       <BlackButton url="https://github.com/ibrahim-aboud/GDG-Game-Jam-ELFARI9" text="Check The Repo"/>
-      <BlackButton url="https://ilyes-ar.itch.io/byte-quest" text="play right now !"/>
+      <BlackButton url="https://ilyes-ar.itch.io/byte-quest" text="Play online !"/>
     </div>
   );
 };
