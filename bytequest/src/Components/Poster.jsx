@@ -4,7 +4,7 @@ import imagePoster from "../Images/Poster.png";
 import BlackButton from "./Button"
 
 const Poster = () => {
-  let teaserUrl ='https://www.youtube.com/watch?v=0yN99XffJ0Y';
+  let teaserUrl ='https://www.youtube.com/embed/0yN99XffJ0Y';
   return (
     <div className="container"> {/* Apply the container CSS class or inline styles */}
        <h1 className='title'>Byte Quest</h1>
